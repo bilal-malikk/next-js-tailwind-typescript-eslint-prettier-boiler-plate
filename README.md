@@ -13,6 +13,7 @@ pnpm dev
 ```
 
 ## Tools Confgiured
+
 1- Typescript
 
 2- Husky (lint-staged)
@@ -20,6 +21,7 @@ pnpm dev
 3- Eslint/Prettier
 
 ## Dependencies and Libraries
+
 3- TailwindCSS
 
 4- Formik (form handler)
